@@ -1,11 +1,9 @@
-import java.util.Scanner;
 class Bp
 {
 	void fun()
 	{		
-		System.out.println("Enter the String");
-		  Scanner input=new Scanner(System.in);
-		  String s1=input.next();
+		
+		  String s1="xyz";
 		  int i=0;
 		  int ad=s1.length();
 		  while(i<ad) 
